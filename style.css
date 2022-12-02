@@ -1,0 +1,15 @@
+.bg-img1{
+    background-color: rgb(72, 34, 211);
+    background-size: cover;
+    background-image: url("anh_01.jpg");
+}
+.bg-img2{
+    background-color: rgb(73, 172, 114);
+    background-size: cover;
+    background-image: url("anh_02.jpg");
+}
+.bg-img3{
+    background-color: rgb(168, 93, 93);
+    background-size: cover;
+    background-image: url("anh_03.jpg");
+}
